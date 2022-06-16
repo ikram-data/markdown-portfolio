@@ -6,5 +6,5 @@ _So is this._
 
 ***And this is bold and italic.***
 
-This is **bold** and _italic_ in one line.
+This is **bold** and _italic_ on one line.
 
