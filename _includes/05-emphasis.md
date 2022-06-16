@@ -1,10 +1,10 @@
-*italic*
+*This is written in italic.*
 
-_italic_
+_So is this._
 
-**bold**
+**This is bold.**
 
-***bold and italic***
+***And this is bold and italic.***
 
-_**bold** and italic_*
+This is **bold** and _italic_ in one line.
 
